@@ -9,4 +9,7 @@ O arquivo principal está nomeado como ``main.ipynb`` e os arquivos de dados est
 ## Desenvolvedores
 
 * Gustavo Henrique Brunelli (11801053)
+* Matheus Ventura de Sousa (11345541)
+* Pedro Lucas de Moliner de Castro (11795784)
+* João Guilherme Jarochinski Marinho (10698193)
 * Matheus Henrique de Cerqueira Pinto (11911104)
